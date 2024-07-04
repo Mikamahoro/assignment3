@@ -76,7 +76,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
           'Calculator',
           style: TextStyle(color: Colors.white),
         ),
-        backgroundColor: Color(0xFF00897B),
+        backgroundColor: Color.fromARGB(255, 16, 0, 137),
       ),
       body: Container(
         padding: const EdgeInsets.all(8.0),
